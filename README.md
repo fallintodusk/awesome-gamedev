@@ -491,6 +491,7 @@ Learn
 
 ### General Game Development
 
+* :free: [ALIS](https://github.com/fallintodusk/alis#alis-as-an-unreal-engine-architecture-reference) - Documented UE5 C++ survival codebase showing separation of concerns through plugin tiers, server-side MET-based metabolism, and JSON-first editor tooling. :octocat:
 * :moneybag: [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
 * :moneybag: [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
 * :free: [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
